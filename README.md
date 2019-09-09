@@ -24,35 +24,6 @@
 
 ![项目截图](https://raw.githubusercontent.com/SuperS4n/employess_management/master/src/main/resources/project_screenshots.png)
 
-#### 项目结构
 
-├─.idea
-│  ├─artifacts
-│  ├─dictionaries
-│  ├─inspectionProfiles
-│  └─libraries
-├─src
-│  ├─main
-│  │  ├─java
-│  │  │  └─com
-│  │  │      └─sup
-│  │  │          ├─controller
-│  │  │          ├─dao
-│  │  │          ├─model
-│  │  │          ├─service
-│  │  │          └─unit
-│  │  ├─resources
-│  │  │  └─mapper
-│  │  └─webapp
-│  │      ├─static
-│  │      │  ├─bootstrap-3.3.7
-│  │      │  │  └─dist
-│  │      │  │      ├─css
-│  │      │  │      ├─fonts
-│  │      │  │      └─js
-│  │      │  └─js
-│  │      └─WEB-INF
-│  │          └─pages
-│  └─test
-│      └─com
-│          └─test
+
+
